@@ -1,0 +1,15 @@
+{
+  "id": "fingers-six-ten",
+  "title": "한 손 가득 (6~10 손가락 셈)",
+  "subtitle": "두 손으로 만들고, 5와 나머지를 직관적으로 모으고 갈라요!",
+  "bottleneck": "엘리하이 2-2 보충: 6~10 모으기·가르기 반복량 및 5 기준화",
+  "badge": "필수 팩: 한 손 가득",
+  "icon": "✋🤚",
+  "themeColor": "#e8f5e9",
+  "version": "1.1.0",
+  "size": "16.6 KB",
+  "bundleUrl": "./fingers-six-ten.pack.js",
+  "description": "오른손 손가락을 톡 누르면 왼손으로 쏙! 5개 한 손 가득 기준화로 6~10 모으기/가르기를 마스터해요.",
+  "sha256": "1cffc990a3ac6710b07d1d8d4d992be10f47d4779e2628374382ca03eabd8a11",
+  "runtime": "react-module"
+}

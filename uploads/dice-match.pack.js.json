@@ -1,0 +1,15 @@
+{
+  "id": "dice-match",
+  "title": "주사위 짝꿍 (6~10 모으기)",
+  "subtitle": "자리를 보며 딱 맞는 짝꿍 주사위를 콕 골라요!",
+  "bottleneck": "엘리하이 2-2 보충: 큰 목표 수와 10칸 자리 틀 연계 덧셈",
+  "badge": "확장 팩: 주사위 짝꿍",
+  "icon": "🎲",
+  "themeColor": "#e8f5e9",
+  "version": "1.1.0",
+  "size": "21.2 KB",
+  "bundleUrl": "./dice-match.pack.js",
+  "description": "2~10개 주사위, 60까지 확장, 10개씩 묶기 판으로 큰 수 감각을 키워요.",
+  "sha256": "3270dd14671f1a02c32dffbe7400d75623cc6fe676be8d1c0ed7644ca6d1d8f0",
+  "runtime": "react-module"
+}

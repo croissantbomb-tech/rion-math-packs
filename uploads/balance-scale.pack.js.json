@@ -1,0 +1,15 @@
+{
+  "id": "balance-scale",
+  "title": "시소 저울과 수 막대 (양쪽 무게 맞추기)",
+  "subtitle": "시소가 평평해지도록 양쪽에 수 막대를 올려보아요!",
+  "bottleneck": "등호(=)의 본질적 개념: 양쪽의 양이 같음 직관화",
+  "badge": "정식 팩: 시소 저울",
+  "icon": "⚖️",
+  "themeColor": "#e0f7fa",
+  "version": "1.1.0",
+  "size": "21.3 KB",
+  "bundleUrl": "./balance-scale.pack.js",
+  "description": "수 막대를 시소 저울에 올려 양쪽이 똑같아지면 딩동댕! 등호와 덧셈의 기초를 다집니다.",
+  "sha256": "6cb5086062c92e05659a1568fe9dfa82864d06f64ee0a1cf144ba505023438af",
+  "runtime": "react-module"
+}

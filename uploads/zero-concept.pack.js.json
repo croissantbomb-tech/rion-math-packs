@@ -1,0 +1,15 @@
+{
+  "id": "zero-concept",
+  "title": "0(영)의 비밀 놀이터",
+  "subtitle": "아무것도 없는 상태 = 0을 손으로 직접 느껴봐요!",
+  "bottleneck": "엘리하이 1-2 스킵 보완: 사라짐, 빈 곳, 0의 개념 체득",
+  "badge": "기초 팩: 0의 비밀",
+  "icon": "🥚",
+  "themeColor": "#fff3e0",
+  "version": "1.1.0",
+  "size": "16.0 KB",
+  "bundleUrl": "./zero-concept.pack.js",
+  "description": "과자가 모두 사라지면 0! 사라짐과 채우기를 직접 손으로 만지며 0의 의미를 깨우칩니다.",
+  "sha256": "ee8ceb2a73043b2b550c8855908581f7cded557d38bf161ad1417e0a1b3cb356",
+  "runtime": "react-module"
+}
